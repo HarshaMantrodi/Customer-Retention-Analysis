@@ -39,15 +39,17 @@ https://www.kaggle.com/datasets/uttamp/store-data
 
 ---
 
-## 🔍 Analysis Workflow  
+## 🔍 Analysis Workflow
 
 ```mermaid
 flowchart LR
-A[📥 Data Loading] --> B[🧹 Data Cleaning]
-B --> C[🔎 Exploratory Analysis]
-C --> D[📊 Churn & Retention Metrics]
-D --> E[📈 Customer Segmentation]
-E --> F[💡 Insights & Strategies]
+A[Data Loading] --> B[Data Cleaning]
+B --> C[Exploratory Analysis]
+C --> D[Churn & Retention Metrics]
+D --> E[Customer Segmentation]
+E --> F[Insights & Strategies]
+
+---
 
 ## 🔍 Key Analysis
 - Churn rate and retention rate calculation  
